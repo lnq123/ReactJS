@@ -1,0 +1,33 @@
+.App{
+    text-align: center;
+    padding:5%;
+}
+.App-title{
+    font-size:26px;
+}
+
+body{
+    background: #000;
+    color: #fff;
+}
+
+.profile{
+    display:flex;
+    justify-content: center;
+}
+.profil-info{
+    margin-left: 10px;
+    text-align: left;
+}
+
+.profile-img{
+    width:150px;
+    height:150px;
+    border: 3px solid #fff;
+    border-radius: 75px;
+    object-fit: cover;
+}
+
+.profile-name{
+    font-size:26px;
+}
